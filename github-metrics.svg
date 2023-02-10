@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -299,7 +299,7 @@ Planet Earth - in search of crypto</div>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 47.4 characters per line of code written</li>
+                        <li>Has approximately 47.5 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -396,16 +396,16 @@ Planet Earth - in search of crypto</div>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,115.222,49,95.667,58.5,95.667C68,95.667,77.5,95.667,87,95.667C96.5,95.667,106,37,115.5,37C125,37,134.5,51.667,144,59C153.5,66.333,163,71.222,172.5,81C182,90.778,191.5,110.333,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,115.222,49,95.667,58.5,95.667C68,95.667,77.5,95.667,87,95.667C96.5,95.667,106,37,115.5,37C125,37,134.5,51.667,144,59C153.5,66.333,163,71.222,172.5,81C182,90.778,191.5,110.333,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,115.222,49,95.667,58.5,95.667C68,95.667,77.5,95.667,87,95.667C96.5,95.667,106,44.333,115.5,44.333C125,44.333,134.5,54.111,144,59C153.5,63.889,163,66.062,172.5,73.667C182,81.272,191.5,107.889,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,115.222,49,95.667,58.5,95.667C68,95.667,77.5,95.667,87,95.667C96.5,95.667,106,44.333,115.5,44.333C125,44.333,134.5,54.111,144,59C153.5,63.889,163,66.062,172.5,73.667C182,81.272,191.5,107.889,201,125" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="58.5" y1="95.66666666666667" x2="58.51" y2="95.66666666666667" class="ct-point" ct:value="4"/>
                                             <line x1="87" y1="95.66666666666667" x2="87.01" y2="95.66666666666667" class="ct-point" ct:value="4"/>
-                                            <line x1="115.5" y1="37" x2="115.51" y2="37" class="ct-point" ct:value="12"/>
+                                            <line x1="115.5" y1="44.33333333333333" x2="115.51" y2="44.33333333333333" class="ct-point" ct:value="11"/>
                                             <line x1="144" y1="59" x2="144.01" y2="59" class="ct-point" ct:value="9"/>
-                                            <line x1="172.5" y1="81" x2="172.51" y2="81" class="ct-point" ct:value="6"/>
+                                            <line x1="172.5" y1="73.66666666666666" x2="172.51" y2="73.66666666666666" class="ct-point" ct:value="7"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="58.5" y="90.66666666666667" class="ct-post">4</text><text x="87" y="90.66666666666667" class="ct-post">4</text><text x="115.5" y="32" class="ct-post">12</text><text x="144" y="54" class="ct-post">9</text><text x="172.5" y="76" class="ct-post">6</text></g>
+                                        <text x="58.5" y="90.66666666666667" class="ct-post">4</text><text x="87" y="90.66666666666667" class="ct-post">4</text><text x="115.5" y="39.33333333333333" class="ct-post">11</text><text x="144" y="54" class="ct-post">9</text><text x="172.5" y="68.66666666666666" class="ct-post">7</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -475,14 +475,14 @@ Planet Earth - in search of crypto</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #16F174">Your fortune: （　´_ゝ`）ﾌｰﾝ </b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 16:02:03 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 17:02:13 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
