@@ -229,18 +229,18 @@ Planet Earth - in search of crypto</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.79mb of code in 1002 edited files across 103 commits</small>
+                <small>estimation from 1.79mb of code in 995 edited files across 96 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.1975882230611" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="188.1975882230611" y="0" width="113.53079122115494" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="301.72837944421605" y="0" width="87.99867364726876" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="389.72705309148483" y="0" width="46.33887353935885" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="436.0659266308437" y="0" width="22.095330644210673" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.16125727505437" y="0" width="1.8387427249456856" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.1030006710766" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="188.1030006710766" y="0" width="113.57030006710765" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="301.67330073818425" y="0" width="88.02929728693319" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="389.7025980251174" y="0" width="46.354999520659575" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="436.057597545777" y="0" width="22.1030198446937" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.1606173904707" y="0" width="1.8393826095292876" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -338,14 +338,14 @@ Planet Earth - in search of crypto</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2023, 20:29:24 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 21:29:31 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
